@@ -202,4 +202,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, feel free to reach out:
 
 * GitHub Issues
-* Email: [your.email@example.com](mailto:adebayoj383@gmail.com)
+* Email: [adebayoj383@gmail.com]
