@@ -1,7 +1,7 @@
 # Speech_Emotion_Recognition
 A model to infer emotion from human speech
 
-<!-- ### Ongoing Project..... -->
+### Ongoing Project.....
 ---
 
 # Speech Emotion Recognition
