@@ -1,0 +1,14 @@
+
+# Core dependencies
+numpy
+scipy
+librosa
+matplotlib, seaborn
+scikit-learn
+pandas
+
+# 
+tensorflow, hmmlearn
+
+# Notebook
+Google Colab
