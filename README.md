@@ -10,7 +10,7 @@ A model to infer emotion from human speech
 
 This project classifies human emotions from speech audio using a hybrid model that combines **Bidirectional Long Short-Term Memory (BiLSTM)** networks and **Hidden Markov Models (HMM)**. The BiLSTM captures complex temporal patterns in the audio features, while the HMM models the sequential transitions between emotional states. This combination allows the system to benefit from the strengths of both deep learning and probabilistic sequence modeling, improving emotion classification performance, especially in time-dependent speech data.
 It extracts audio features like MFCC and feeds them into the model to detect emotions such as **happy**, **sad**, **angry**, **neutral**, and more.
-It’s built using Python and popular libraries like Librosa, PyTorch/TensorFlow, and scikit-learn.
+It’s built using Python and popular libraries like Librosa, TensorFlow, and hmmlearn.
 
 ---
 
