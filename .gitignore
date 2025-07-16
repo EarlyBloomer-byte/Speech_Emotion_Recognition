@@ -205,3 +205,32 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter / Colab notebook checkpoints
+*.ipynb_checkpoints
+
+# Colab/Drive (optional)
+content/
+drive/
+*.zip
+*.tar.gz
+
+# Model files
+*.h5
+*.pt
+*.pkl
+*.keras
+models/
+checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
