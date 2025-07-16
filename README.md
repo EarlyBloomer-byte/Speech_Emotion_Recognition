@@ -58,7 +58,7 @@ python predict.py --file samples/happy.wav
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 This project supports the following datasets:
 
@@ -109,7 +109,7 @@ Audio (.wav) ──► Feature Extraction ──► BiLSTM ──► HMM ──�
 
 This architecture is particularly effective for speech emotion recognition, where emotions evolve over time and have strong sequential dependencies.
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/EarlyBloomer-byte/Speech_Emotion_Recognition.git
@@ -127,7 +127,7 @@ Optional:
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Predict Emotion from Audio
 
@@ -151,7 +151,7 @@ jupyter notebook SER-demo.ipynb
 
 ---
 
-## 📊 Results
+## Results
 
 | Emotion | Precision | Recall | F1-Score |
 | ------- | --------- | ------ | -------- |
@@ -191,7 +191,7 @@ Contributions are very welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
