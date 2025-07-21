@@ -26,7 +26,6 @@ It’s built using Python and popular libraries like Librosa, TensorFlow, and hm
 - [Results](#-results)
 - [Limitations & Future Work](#-limitations--future-work)
 - [Contributing](#-contribution)
-- [License](#-license)
 
 ---
 
