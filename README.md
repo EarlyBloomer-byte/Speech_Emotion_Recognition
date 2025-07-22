@@ -140,12 +140,12 @@ python predict.py --file path/to/audio.wav
 python train.py --config config.yaml
 ```
 
-### Jupyter Notebook
+### Colab Notebook
 
 You can also explore the model and predictions via the notebook:
 
 ```bash
-jupyter notebook SER-demo.ipynb
+notebook SER-demo.ipynb
 ```
 
 ---
