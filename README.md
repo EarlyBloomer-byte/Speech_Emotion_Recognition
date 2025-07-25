@@ -59,12 +59,13 @@ python predict.py --file samples/happy.wav
 
 ## Dataset
 
-This project supports the following datasets:
+This project made use of 7 datasets but 2 out of it were locally collected ones. The remaining 5 datsets are publicly availables:
 
-- [RAVDESS](https://zenodo.org/record/1188976)
+- [RAVDESS](https://www.ravdess.org/)
 - [TESS](https://www.torontoadventures.ca/tess/)
-- [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)
-- [Emo-DB](http://emodb.bilderbar.info/start.html)
+- [CREMA-D](https://cheyneycomputerscience.github.io/CREMA-D)
+- [Emo-DB](https://dagshub.com/DagsHub-Datasets/emo-db)
+- [SAVEE](http://kahlan.eps.surrey.ac.uk/savee/)
 
 > Make sure to download and organize the datasets in the `/data` directory as described in the documentation.
 
@@ -102,7 +103,7 @@ Audio (.wav) ──► Feature Extraction ──► BiLSTM ──► HMM ──�
 - **HMM Decoding**: GuassianHMM
 - **Epochs**: 40
 - **Batch Size**: 30
-- **Frameworks Used**: TensorFlow, hmmlearn,
+- **Frameworks Used**: TensorFlow, hmmlearn
 
 ---
 
